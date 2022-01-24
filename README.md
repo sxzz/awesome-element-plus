@@ -31,8 +31,9 @@ A curated list of awesome things related to [Element Plus](https://github.com/el
 - [Element Plus](https://github.com/element-plus/element-plus) - Element Plus main repo.
 - [Element Plus Icons](https://github.com/element-plus/element-plus-icons) - Element Plus icons collection.
 - [Element Plus Playground](https://github.com/element-plus/element-plus-playground) - You can click [here](https://element-plus.run/) to have a try! 😆
-- [Element Plus Vite Starter](https://github.com/element-plus/element-plus-vite-starter) - The minimum starter for quick start.
-- [Element Plus Nuxt3 Starter](https://github.com/element-plus/element-plus-nuxt-starter) - The minimum starter for nuxt 3. (🚧 WIP)
+- [Element Plus Vite Starter](https://github.com/element-plus/element-plus-vite-starter) - A starter kit for Element Plus with Vite.
+- [Element Plus Webpack 4 Starter](https://github.com/element-plus/element-plus-webpack4-starter) - A starter kit for Element Plus with Webpack 4.
+- [Element Plus Nuxt 3 Starter](https://github.com/element-plus/element-plus-nuxt-starter) - The minimum starter for Nuxt 3. (🚧 WIP)
 - [unplugin-element-plus](https://github.com/element-plus/unplugin-element-plus) - On-demand import style for Element Plus.
 - [Design Materials](https://github.com/element-plus/design-materials) - Logo, emoticons and other resources of the Element Plus community.
 
