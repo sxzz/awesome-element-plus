@@ -24,7 +24,7 @@ A curated list of awesome things related to [Element Plus](https://github.com/el
 
 - [Documentation](https://element-plus.org/)
 - [GitHub Repo](https://github.com/element-plus/element-plus)
-- [Release Notes](https://element-plus.org/zh-CN/guide/changelog.html)
+- [Release Notes](https://element-plus.org/en-US/guide/changelog.html)
 
 ## Official
 
