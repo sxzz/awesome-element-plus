@@ -43,4 +43,4 @@ A curated list of awesome things related to [Element Plus](https://github.com/el
 - [Element Plus Vite Starter](https://github.com/element-plus/element-plus-vite-starter) - The official minimum template for quick start.
 - [Element Plus Best Practices](https://github.com/sxzz/element-plus-best-practices) - Element Plus best practices.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - a free and open source middle and back-end template.
-- [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) a minimal admin template
+- [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - a minimal admin template.
